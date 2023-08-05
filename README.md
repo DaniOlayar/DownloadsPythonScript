@@ -11,5 +11,7 @@ Using Task Scheduler I can schedule it to run the script every day at the end of
 
 ## Version History
 
+* 0.2
+    * Added new formats
 * 0.1
     * Initial Release
